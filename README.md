@@ -9,8 +9,7 @@ This repository contains:
 - A *safe contract* using my custom-built reentrancy guard
 - *Tests* simulating attacks, failed withdrawals, and secure ETH transfers
 
-> Created between *24–28 Aug, 2025* by Michealking (@BuildsWithKing)[]
-
+> Created between *24–28 Aug, 2025* by MichealKing [@BuildsWithKing](https://github.com/BuildsWithKing)
 ---
 
 ## 📂 Project Structure
