@@ -60,7 +60,10 @@ BuildsWithKing-ReentrancyGuard/
 
 Check out the demo video explaining how the *vulnerable contract is exploited* and how the *reentrancy guard protects the contract when added*:
 
-<video controls src="Screenshoot and Video/BUILDSWITHKING_REENTRANCYGUARD VIDEO.mp4" title="How Reentrancy Attack Works"></video>
+> *Note:* While creating the demo video, the project used *wei* for ETH amounts.  
+> For easier understanding and readability, the code in this repository now uses *ether*.
+
+[Watch Video](https://1drv.ms/v/c/4292b05ee508e173/ER8X-lmXn-JLgcqFaT33gzYB0-RQeng6QzQGNBmv-JKNOA?e=pegJHM)
 ---
 
 ## 🛠 Tools Used
